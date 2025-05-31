@@ -45,9 +45,4 @@ The dataset contains IPL player statistics from 2008 to 2024 (based on available
 
 ---
 
-## 📌 How to Run
 
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/yourusername/ipl-player-performance-eda.git
-   cd ipl-player-performance-eda
